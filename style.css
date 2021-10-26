@@ -1,0 +1,11 @@
+body{
+    text-align: center;
+    background: linear-gradient("magenta,yellow");
+}
+img{
+    width: 300px;
+    height: 300px;
+    border: 2px solid crimson; 
+    padding: 2px;
+    margin: 10px;
+}
